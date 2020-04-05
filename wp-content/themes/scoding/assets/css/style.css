@@ -203,6 +203,7 @@ a:hover {
 }
 
 .site-main-menu ul li a.active-menu {
+  font-weight: 600;
   border-color: #f7655e;
   color: #060606;
 }
